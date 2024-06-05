@@ -1,0 +1,2 @@
+output = table(c, k, y, i, g_y, r_k, i_y, tfp, 'VariableNames', {'c', 'k', 'y', 'i', 'g_y', 'r_k', 'i_y', 'tfp'});
+writetable(output, "output_l.xlsx"); % Change index for alternative fertility scenario
